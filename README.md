@@ -2,7 +2,7 @@
 This is a new project and its going to be an 8-bit PC using integrated circuits.
 The PC will contain 2 registers F and W.
 The PC will be able to execute the following instructions : ADDWF, SUBWF, MOVWF, CLRF, CLRW, ANDWF, XORWF, IORWF, DECF, INCF, COMF, RLF, RRF, C Flag, Z Flag, N Flag
-The project will be build on a PCB with 6 layer board.
+The project will be build on a PCB with 4 layer board. The project BOM and Gerber files are not generated since the project is not finished yet.
 ## First section
 The first section is Power section from a 5V micro USB
 ## Second section
